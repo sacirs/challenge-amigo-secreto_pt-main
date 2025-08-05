@@ -1,6 +1,6 @@
 # Projeto amigo secreto
 
-- Projeto criado como desafio do curso de Logica de programação da Alura/ONE
+- Projeto criado como desafio do curso de Lógica de programação da Alura/ONE
 
 
 
